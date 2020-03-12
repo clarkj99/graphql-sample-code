@@ -1,1 +1,3 @@
-node_modules/
+# Exclued from repo
+
+/node_modules
