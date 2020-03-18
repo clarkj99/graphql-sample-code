@@ -13,6 +13,7 @@
     "lodash": "^4.17.15"
   },
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json",
+    "start": "nodemon server.js"
   }
 }
